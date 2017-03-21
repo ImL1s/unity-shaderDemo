@@ -1,0 +1,18 @@
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\bin\Debug\C21_3D.exe.config
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\bin\Debug\C21_3D.exe
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\bin\Debug\C21_3D.pdb
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.Form1.resources
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.exe
+\\mac\home\documents\visual studio 2017\Projects\C21_3D\C21_3D\obj\Debug\C21_3D.pdb
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\bin\Debug\C21_3D.exe.config
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\bin\Debug\C21_3D.exe
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\bin\Debug\C21_3D.pdb
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.csprojResolveAssemblyReference.cache
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.Form1.resources
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.Properties.Resources.resources
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.csproj.GenerateResource.Cache
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.exe
+\\Mac\Home\Project\CS\LeanShader\C21_3D\C21_3D\obj\Debug\C21_3D.pdb
