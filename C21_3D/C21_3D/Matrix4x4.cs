@@ -63,9 +63,29 @@ namespace C21_3D
             return rv4;
         }
 
+        public static Matrix4x4 Plus(Matrix4x4 m1, Matrix4x4 m2)
+        {
+            Matrix4x4 m = new Matrix4x4();
+
+            for (int i = 1; i < 5; i++)
+            {
+                for (int j = 1; j < 5; j++)
+                {
+                    m[i, j] = m1[i, j] + m2[i, j];
+                }
+            }
+
+            return m;
+        }
+
         public static Vector4 operator *(Matrix4x4 m1, Vector4 m2)
         {
             return Mul(m1, m2);
+        }
+
+        public static Matrix4x4 operator +(Matrix4x4 m1, Matrix4x4 m2)
+        {
+            return Plus(m1, m2);
         }
 
     }
